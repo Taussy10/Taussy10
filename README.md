@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
 
+ <a href="https://twitter.com/taussy10" target="blank"><img src="https://github.com/Taussy/Taussy/blob/main/contributiongrid.svg" alt="taussy10" /></a> 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taussy10" alt="taussy10" /></a> </p>
