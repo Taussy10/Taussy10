@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/taussy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taussy10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tausifr10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tausifr10/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22346025/tausif" target="blank"><img align="center" src="https://camo.githubusercontent.com/7ebc5a2448e32119a01bdae64290fcf67ee83b9f2427894ca50888d342d5dd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stackoverflow Account" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22346025/tausif" target="blank"><img align="center" src="https://camo.githubusercontent.com/7ebc5a2448e32119a01bdae64290fcf67ee83b9f2427894ca50888d342d5dd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stackoverflow Account" height="30" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
