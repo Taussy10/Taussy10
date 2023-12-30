@@ -18,13 +18,13 @@
   
   <p align="left">
     - 🔭 I’m currently working on Netflix App
-    <br />
+    
     - 🌱 I’m currently learning **React and React Native
-    <br />
+ 
     - 💬 Ask me about  JavaScript, React, React Native
-    <br />
+   
     - 📫 How to reach me tausif00100@gmail.com
-    <br />
+   
     - ⚡ Fun fact  I'm passionate about my work
   </p>
 </div>
