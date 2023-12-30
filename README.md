@@ -1,5 +1,5 @@
 
- <img src="https://ibb.co/wdMn2nk" alt="Header_Pic" /></a> 
+ <img src="https://private-user-images.githubusercontent.com/69891912/292682411-752fff9f-7e48-4df2-823f-3dc4beba39ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NTA3OTYsIm5iZiI6MTcwMzk1MDQ5NiwicGF0aCI6Ii82OTg5MTkxMi8yOTI2ODI0MTEtNzUyZmZmOWYtN2U0OC00ZGYyLTgyM2YtM2RjNGJlYmEzOWVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE1MzQ1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2ZmM5MjQzN2I1ZWE1ZTBjZjFkNDkwMTY0NGQxOTJjZjY3ODRhNjAzMGI0MjkyNTdlNzY1N2E3ODM4YmIxOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wQDmEOvjfT21eNJhVxbIJnLii0JK_MtVRn4hCjpV2Ro" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
