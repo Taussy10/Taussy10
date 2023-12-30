@@ -15,13 +15,12 @@
 
 
 
-<img width="60%" height="60%"  align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 🔭 I’m currently working on **Netflix App**</p>
 
 🌱 I’m currently learning **React and React Native** 
 
-💬 Ask me about **Javascript , React , React Native**
+💬 Ask me about **Javascript , React, React Native**
 
 📫 How to reach me **tausif00100@gmail.com**
 
