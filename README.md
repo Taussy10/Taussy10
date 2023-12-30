@@ -15,7 +15,7 @@
 
 
 
-<img width="600%" height="100%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<img width="60%" height="60%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 - 🔭 I’m currently working on **Netflix App**
 
