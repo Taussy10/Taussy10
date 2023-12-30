@@ -1,5 +1,5 @@
 
- <img src="https://pbs.twimg.com/profile_banners/1638347715019956232/1703948867/1500x500" height="30" width="40" alt="Header_Pic" /></a> 
+ <img src="https://private-user-images.githubusercontent.com/69891912/292682411-752fff9f-7e48-4df2-823f-3dc4beba39ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NDk0MDQsIm5iZiI6MTcwMzk0OTEwNCwicGF0aCI6Ii82OTg5MTkxMi8yOTI2ODI0MTEtNzUyZmZmOWYtN2U0OC00ZGYyLTgyM2YtM2RjNGJlYmEzOWVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE1MTE0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwYTMxY2QwZDhkMGFmOTA0ODVmOTI2NDVjYTNmMWY2NGI1ZWE4ZTkzMDNkYjBlZjU4NzczZGRhZjExNmRmOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bzpOIRE1JIZP03NTOIj6kD3O1wu7OIvNjWRGuSfWLgI" height="30" width="40" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
