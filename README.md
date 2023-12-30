@@ -15,7 +15,7 @@
 
 
 
-
+<img width="600%" height="100%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 - 🔭 I’m currently working on **Netflix App**
 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I'm passionate about my work**
 
-<img width="40%" height="50%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
