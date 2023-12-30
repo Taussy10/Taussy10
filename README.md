@@ -15,17 +15,17 @@
 
 
 
-<img width="60%" height="60%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<img width="60%" height="60%"  align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
-- 🔭 I’m currently working on **Netflix App**
+<p>  🔭 I’m currently working on **Netflix App**</p>
 
-- 🌱 I’m currently learning **React and React Native**
+<p>- 🌱 I’m currently learning **React and React Native** </p>
 
-- 💬 Ask me about **Javascript , React , React Native**
+<p>- 💬 Ask me about **Javascript , React , React Native**</p>
 
-- 📫 How to reach me **tausif00100@gmail.com**
+<p>- 📫 How to reach me **tausif00100@gmail.com**</p>
 
-- ⚡ Fun fact **I'm passionate about my work**
+<p>- ⚡ Fun fact **I'm passionate about my work**</p>
 
 
 
