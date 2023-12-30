@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/taussy10" target="blank"><img src="https://img.shields.io/twitter/follow/taussy10?logo=twitter&style=for-the-badge" alt="taussy10" /></a> </p>
 
 
-
+<div display="flex"> 
 <p display="inline-block" align="right" > <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a> </p> 
 
 <p align="left"> 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I'm passionate about my work**
 </p> 
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taussy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taussy10" height="30" width="40" /></a>
