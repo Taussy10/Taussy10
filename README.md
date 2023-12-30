@@ -1,5 +1,5 @@
 
- <img src="https://pbs.twimg.com/profile_banners/1638347715019956232/1703948867/1500x500" alt="Header_Pic" /></a> 
+ <img src="https://pbs.twimg.com/profile_banners/1638347715019956232/1703948867/1500x500" height="30" width="40" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
