@@ -1,5 +1,5 @@
 
- <img src="https://lh3.googleusercontent.com/keep-bbsk/ALhRneFAXbWJME3Iiabwp-3otURk5nM5yJ36077pVJQAa-ZUD_aRDqN2HWI4PMVrXS36_rlV6l0atKFRYe3YRtqvpBp_7c_hAWSIJC1gzpNgPMzz5wuW=s1080" height="100" widht="500" alt="Header_Pic" /></a> 
+ <img src="https://private-user-images.githubusercontent.com/69891912/292682411-752fff9f-7e48-4df2-823f-3dc4beba39ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NDQwMTcsIm5iZiI6MTcwMzk0MzcxNywicGF0aCI6Ii82OTg5MTkxMi8yOTI2ODI0MTEtNzUyZmZmOWYtN2U0OC00ZGYyLTgyM2YtM2RjNGJlYmEzOWVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDEzNDE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIzZGU4MzlhYzkzZjNiNGUwYTllY2RiYzhkZDFhZGNiNjU4N2Y5MDk1NmU5Y2FjODhhNDM2OGNkNzU1OGQ5ZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BcCkiNGOnJeA2yJooFfB9ohn5pMdjOcbY6z47-n9WO0" height="100" widht="500" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
