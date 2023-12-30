@@ -6,15 +6,13 @@
 
  <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> 
 
-
-<p align="right"> <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a></p> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taussy10" alt="taussy10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/taussy10" target="blank"><img src="https://img.shields.io/twitter/follow/taussy10?logo=twitter&style=for-the-badge" alt="taussy10" /></a> </p>
 
+<p align="right"> <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a></p> 
 - 🔭 I’m currently working on **Netflix App**
 
 - 🌱 I’m currently learning **React and React Native**
