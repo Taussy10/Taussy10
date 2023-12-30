@@ -7,7 +7,7 @@
  <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> 
 
 
-<p align="right"> <img src="https://private-user-images.githubusercontent.com/69891912/292682411-752fff9f-7e48-4df2-823f-3dc4beba39ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5MzkxOTgsIm5iZiI6MTcwMzkzODg5OCwicGF0aCI6Ii82OTg5MTkxMi8yOTI2ODI0MTEtNzUyZmZmOWYtN2U0OC00ZGYyLTgyM2YtM2RjNGJlYmEzOWVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDEyMjEzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkYjM0MzY4M2M3MzJiNjQ5NWQ4MGY1OTljZWFkOTg1NzJmNmJhMzljNzAyNjMyZDExZDkxN2M3MjA2YjFkOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RR2QMWtXTO7MveG8CT1mhJDP0Xndx7JxtIC5T8DqQnM" alt="taussy10" /></a></p> 
+<p align="right"> <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a></p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
