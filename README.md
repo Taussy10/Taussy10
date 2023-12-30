@@ -1,5 +1,5 @@
 
- <img src="https://lh3.googleusercontent.com/keep-bbsk/ALhRneFAXbWJME3Iiabwp-3otURk5nM5yJ36077pVJQAa-ZUD_aRDqN2HWI4PMVrXS36_rlV6l0atKFRYe3YRtqvpBp_7c_hAWSIJC1gzpNgPMzz5wuW=s1080" alt="Header_Pic" /></a> 
+ <img src="https://lh3.googleusercontent.com/keep-bbsk/ALhRneFAXbWJME3Iiabwp-3otURk5nM5yJ36077pVJQAa-ZUD_aRDqN2HWI4PMVrXS36_rlV6l0atKFRYe3YRtqvpBp_7c_hAWSIJC1gzpNgPMzz5wuW=s1080" height="100" widht="500" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
