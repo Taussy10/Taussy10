@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://twitter.com/taussy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taussy10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tausifr10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tausifr10/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22346025/tausif" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/StackOverflow-Dark.svg" alt="Stackoverflow Account" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22346025/tausif" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/StackOverflow-Dark.svg" alt="Stackoverflow Account" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
