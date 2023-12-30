@@ -14,7 +14,7 @@
 
 
 
-<p display="inline-block"> <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a> </p> 
+<p display="inline-block" align="right" > <img src="https://camo.githubusercontent.com/b5012225915f884d60a3f625d3950d44e8e55123a4b03907babe749edb7f5882/68747470733a2f2f692e67697068792e636f6d2f6d656469612f3130494555793066355633574c752f67697068792e77656270" alt="taussy10" /></a> </p> 
 
 <p align="left"> 
 - 🔭 I’m currently working on **Netflix App**
