@@ -1,5 +1,5 @@
 
- <img width="50%" align='right' src="./Assets/Header.png" alt="Header_Pic" /></a> 
+ <img width="100%" align='right' src="./Assets/Header.png" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate React Native developer</h3>
