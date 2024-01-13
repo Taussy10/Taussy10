@@ -2,7 +2,7 @@
  <img   height="350" width="1000"   src="./Assets/Header.png" alt="Header_Pic" /></a> 
 
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
-<h3 align="center">A passionate React Native developer</h3>
+<h3 align="center">A passionate App developer</h3>
 
  <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> 
 
