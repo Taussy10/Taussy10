@@ -1,11 +1,13 @@
 
  <img   height="350" width="2000"   src="Header.png" alt="Header_Pic" /></a> 
 
+<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+
 <h1 align="center">Hi 👋, I'm Tausif Raza</h1>
 <h3 align="center">A passionate App developer</h3>
 
-<iframe src="https://chromedino.com/mario/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
