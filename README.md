@@ -24,9 +24,6 @@
 
 💬 Ask me about **Javascript , React, React Native**
 
-📫 How to reach me **tausif00100@gmail.com**
-
-⚡ Fun fact **I'm passionate about my work**
 
 
 
