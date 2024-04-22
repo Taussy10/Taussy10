@@ -18,17 +18,11 @@
 
 
 
-🔭 I’m currently working on **Netflix App**</p>
+🔭 I’m currently working on **Budget Planner app**</p>
 
 🌱 I’m currently learning **React and React Native** 
 
-💬 Ask me about **Javascript , React, React Native**
-
-📫 How to reach me **tausif00100@gmail.com**
-
-⚡ Fun fact **I'm passionate about my work**
-
-
+💬 Ask me about **Javascript , React and React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
