@@ -3,8 +3,9 @@
 
 
 
-<h1 align="center" color="red" >Hi 👋, I'm Tausif Raza</h1>
-<h3 align="center" color="red">A passionate App developer</h3>
+
+  <!--  HI PIKACHU  -->
+<h1 align="center" color="red" ><img align="center" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi"></h1>
 
 <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a>
 
@@ -13,13 +14,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
+
+
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
+
+
 <!--  PROFILE HEADER INTRO (LHS)  -->
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm a versatile Software 
+I'm a Tausif **App Developer** with a passion for creating innovative Apps for both Android and IOS platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
