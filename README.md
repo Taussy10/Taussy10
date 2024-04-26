@@ -24,8 +24,7 @@
 
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
-I'm a versatile Software 
-I'm a Tausif **App Developer** with a passion for creating innovative Apps for both Android and IOS platforms.
+I'm Tausif **App Developer** with a passion for creating innovative Apps for both Android and IOS platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
