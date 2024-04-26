@@ -131,12 +131,8 @@ I'm a Tausif **App Developer** with a passion for creating innovative Apps for b
 
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>  <img align="right" src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
 <!--  MY GITHUB STAT  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
