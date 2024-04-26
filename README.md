@@ -67,7 +67,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 
 
-<h3 align="left">Connect with me </h3>
+#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
@@ -127,10 +127,10 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taussy10&show_icons=true&locale=en&layout=compact" alt="taussy10" /></p>
+<p>  <img align="right" src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&locale=en" alt="taussy10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taussy10&" alt="taussy10" /></p>
+<!--  MY GITHUB STAT  -->
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
