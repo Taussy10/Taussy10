@@ -8,35 +8,126 @@
 
 <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a>
 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
+
+<!--  PROFILE HEADER RHS IMAGE  -->
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
+
+<!--  PROFILE HEADER INTRO (LHS)  -->
+I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+
+💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
+
+🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
+
+<!--  EXCITED CHARACTERS  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
+
+</br>
+
+
+
+
+
+
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+
+
+
+
+
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taussy10" alt="taussy10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/taussy10" target="blank"><img src="https://img.shields.io/twitter/follow/taussy10?logo=twitter&style=for-the-badge" alt="taussy10" /></a> </p>
 
 
 
 
 
-🔭 I’m currently working on **Netflix App**</p>
-
-🌱 I’m currently learning **React and React Native** 
-
-💬 Ask me about **Javascript , React, React Native**
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/taussy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taussy10" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tausifr10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tausifr10/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22346025/tausif" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/StackOverflow-Dark.svg" alt="Stackoverflow Account" height="35" width="50" /></a>
-</p>
 
+
+
+
+
+<h3 align="left">Connect with me </h3>
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=X&labelColor=black&color=black)](https://twitter.com/Taussy10)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tausif00100@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](./)
+
+
+
+
+
+
+
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+<!--  EXPERTISE  -->
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+[![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
+[![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
+[![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Flipper](https://img.shields.io/badge/-Flipper-75AADB?logo=facebook&logoColor=white)](https://fbflipper.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)](https://www.adobe.com/products/xd.html)
+
+
+
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taussy10&show_icons=true&locale=en&layout=compact" alt="taussy10" /></p>
 
