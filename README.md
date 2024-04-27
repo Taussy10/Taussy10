@@ -119,19 +119,20 @@ I'm Tausif **App Developer** with a passion for creating innovative Apps for bot
 
 
 
+
+
+
+
+
+
+
+
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
-
-
-
-
-
-
-
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
 
-<!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+
