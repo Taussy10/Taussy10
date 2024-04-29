@@ -44,7 +44,7 @@ I'm Tausif **App Developer** with a passion for creating innovative Apps for bot
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
