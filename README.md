@@ -1,4 +1,4 @@
-<img   height="350" width="2000"   src="Header.png" alt="Header_Pic" /></a>
+<img   height="350" width="2000"   src="Header.gif" alt="Header_Pic" /></a>
 
 
 
