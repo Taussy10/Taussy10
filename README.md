@@ -44,20 +44,23 @@ I'm Tausif **App Developer** with a passion for creating innovative Apps for bot
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+   
+<!--  CAT  -->
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+
+<!--  Trophy  -->
+<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-
-
-
-
-
-
-
-
-#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> 
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taussy10/)
