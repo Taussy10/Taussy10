@@ -16,11 +16,13 @@
 
 
 
+
+[![wakatime](https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg)](https://wakatime.com/@018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b)
+
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
-
 
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
