@@ -74,7 +74,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taussy10/)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=X&labelColor=black&color=black)](https://twitter.com/Taussy10)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tausif00100@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](./)
 
 
 
@@ -108,9 +107,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 [![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Flipper](https://img.shields.io/badge/-Flipper-75AADB?logo=facebook&logoColor=white)](https://fbflipper.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 
 
 
