@@ -4,6 +4,7 @@
 
 
 
+
   <!--  HI PIKACHU  -->
 <h1 align="center" color="red" ><img align="center" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi"></h1>
 
@@ -127,7 +128,8 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=jolly&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="taussy10" width="100%" /> </p>
+
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=jolly&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=586" alt="taussy10" width="100%" /> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
