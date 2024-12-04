@@ -129,8 +129,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=jolly&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=586" alt="taussy10" width="100%" /> </p>
-
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=jolly&hide_border=true")/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
  
