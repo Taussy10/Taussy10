@@ -18,7 +18,7 @@
 
 
 
-
+<p align="left"> <img src="https://img.shields.io/github/followers/taussy10?logo=github&&style=flat  "alt="taussy10" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
 
