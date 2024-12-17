@@ -5,7 +5,7 @@
 
 
   <!--  HI PIKACHU  -->
-<h1 align="center" co/lor="red" ><img align="center" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi"></h1>
+<h1 align="center" co/lor="red" ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
 
 <!-- <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> -->
 
@@ -59,11 +59,11 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
    
 <!--  CAT  -->
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
+
 
 
 <!--  Trophy  -->
-<p align="right"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
+<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
 
 <!--  DIVIDER  -->
 
@@ -129,7 +129,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
  
- 
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
 
 
 
