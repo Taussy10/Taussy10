@@ -1,4 +1,3 @@
-<img   height="350" width="2000"   src="Header.gif" alt="Header_Pic" /></a>
 
 
 
@@ -6,7 +5,7 @@
 
 
   <!--  HI PIKACHU  -->
-<h1 align="center" color="red" ><img align="center" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi"></h1>
+<h1 align="center" co/lor="red" ><img align="center" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi"></h1>
 
 <!-- <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> -->
 
@@ -16,7 +15,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<hr/>
 
 <p align="left"> <img src="https://img.shields.io/github/followers/taussy10?logo=github&&style=flat  "alt="taussy10" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
@@ -28,7 +27,8 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+  <img src="Header.gif" align="right" width="35%" width="500" alt="Image">
+
 </picture>
 
 
@@ -40,7 +40,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
 <!--  EXCITED CHARACTERS  -->
-<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
 </br>
 
@@ -51,8 +50,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  Don't delete this divider else face allignments issus  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-
+<hr/>
 
 
 
@@ -61,7 +59,8 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
    
 <!--  CAT  -->
-<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+ <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
+
 
 <!--  Trophy  -->
 <p align="right"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
@@ -130,7 +129,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
  
- <p> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
  
 
 
