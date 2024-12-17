@@ -50,7 +50,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 
-<!--  DIVIDER  -->
+<!--  Don't delete this divider else face allignments issus  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
@@ -67,7 +67,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 <p align="right"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> 
 
@@ -84,7 +83,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <!--  EXPERTISE  -->
 <h3 align="left">Languages and Tools:</h3>
@@ -114,7 +112,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 <!--  Github Contribution Graph  -->
 <a href="https://github.com/Taussy10">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Taussy10&theme=react-dark" />
@@ -126,7 +123,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 
 
