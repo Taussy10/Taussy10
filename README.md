@@ -124,12 +124,12 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 <!--  DIVIDER  -->
 
 
+<!--  Github streak  -->
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=jolly&hide_border=true")/></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=jolly&show)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats) 
  
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=github_dark&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
 
 
 
