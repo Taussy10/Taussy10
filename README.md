@@ -95,6 +95,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)]( https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E?logo=Appwrite&logoColor=white)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
