@@ -63,7 +63,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  Trophy  -->
-<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&theme=onestar&row=2&column=3" alt="trophy" /> </p>
+<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p>
 
 <!--  DIVIDER  -->
 
@@ -113,7 +113,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 <!--  Github Contribution Graph  -->
 <a href="https://github.com/Taussy10">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Taussy10&theme=react-dark" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Taussy10&theme=react-dark&hide_border=true" />
 </a>
 
 
@@ -125,9 +125,9 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  Github streak  -->
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=taussy10&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Taussy10&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=github_dark&show&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
  
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=github_dark&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
 
