@@ -27,7 +27,7 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="Header.gif" align="right" width="35%" width="500" alt="Image">
+  <img src="desk.gif" align="right" width="35%"  alt="Image">
 
 </picture>
 
