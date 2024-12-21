@@ -5,7 +5,7 @@
 
 
   <!--  HI PIKACHU  -->
-<h1 align="center" co/lor="red" ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
+<h1 align="center"  ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
 
 <!-- <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> -->
 
@@ -22,13 +22,14 @@
 
 
 
+<p align="left"> <img src="https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg" alt="taussy10" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg)](https://wakatime.com/@018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b)
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="desk.gif" align="right" width="35%"  alt="Image">
 
+
+<img  style="margin-top: -10;" src="desk.gif" align="right" width="35%"  alt="Image">
 </picture>
 
 
