@@ -114,9 +114,8 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 <!--  Github Contribution Graph  -->
 <a href="https://github.com/Taussy10">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Taussy10&theme=react-dark&hide_border=true" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=taussy10&bg_color=white&color=ffffff&line=2c6ce6&point=ffffff&hide_border=false"/>
 </a>
-
 
 
 
