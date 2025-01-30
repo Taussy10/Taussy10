@@ -51,20 +51,34 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 <!--  Don't delete this divider else face allignments issus  -->
-<hr/>
-
 
 
 
 
 
    
-<!--  CAT  -->
+<!--  My projects-->
+## My projects  👇👇
+<details><summary> Click Here</summary>
+  
+|Number| Name |Type |Status |
+----------:|:-----------: | :-----------: | :-----------: |   
+1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website|Completed... |
+2.|[UrbanNest](https://github.com/Taussy10/UrbanNest) | App |Working... |
+3.|[Cineverse](https://github.com/Taussy10/CineVerse) | App |Working... |
+4.|[Wally]() | App |Working... |
+5.|[Aora](https://github.com/Taussy10/Aora) | App |Working... |
+6.|[Chatbot](https://github.com/Taussy10/Chatbot) | App |Working... |
+7.|[Coursey](https://github.com/Taussy10/E-Learning-) | App |Working... |
+
+</details>
+</br>
 
 
 
-<!--  Trophy  -->
-<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p>
+
+<!--  Trophy 
+<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p> -->
 
 <!--  DIVIDER  -->
 
