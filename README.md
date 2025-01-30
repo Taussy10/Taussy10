@@ -64,10 +64,10 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 |Number| Name |Type |Status |
 ----------:|:-----------: | :-----------: | :-----------: |   
 1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website|Completed... |
-2.|<a href="https://github.com/Taussy10/imagify" target="_blank">Imagify</a> | App |Working... |
+2.|[Imagify](https://github.com/Taussy10/Imagify) | App |Working... |
 3.|[UrbanNest](https://github.com/Taussy10/UrbanNest) | App |Working... |
 4.|[Cineverse](https://github.com/Taussy10/CineVerse) | App |Working... |
-5.|[Wally]() | App |Working... |
+5.|[Wally](https://github.com/Taussy10/Wally) | App |Working... |
 6.|[Aora](https://github.com/Taussy10/Aora) | App |Working... |
 7.|[Chatbot](https://github.com/Taussy10/Chatbot) | App |Working... |
 8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App |Working... |
