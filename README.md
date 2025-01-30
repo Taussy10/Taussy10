@@ -62,15 +62,15 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 <details><summary> Click Here</summary>
   
 |Number| Name |Type | Visibility |Status |
-----------:|:-----------: | :-----------: | :-----------: | :-----------: |      
-1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website |Public|Completed... |
-2.|[Imagify](https://github.com/Taussy10/Imagify) | App | Private|Working... |
-3.|[UrbanNest](https://github.com/Taussy10/UrbanNest) | App| Public |Working... |
-4.|[Cineverse](https://github.com/Taussy10/CineVerse) | App | Private| Working... |
-5.|[Wally](https://github.com/Taussy10/Wally) | App | Public |Working... |
-6.|[Aora](https://github.com/Taussy10/Aora) | App | Public| Working... |
-7.|[Chatbot](https://github.com/Taussy10/Chatbot) | App| Public |Working... |
-8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App| Public |Working... |
+|:----------:|:-----------: | :-----------: | :-----------: | :-----------: |      
+|1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website |Public|Completed... |
+|2.|[Imagify](https://github.com/Taussy10/Imagify) | App | Private|Working... |
+|3.|[UrbanNest](https://github.com/Taussy10/UrbanNest) | App| Public |Working... |
+|4.|[Cineverse](https://github.com/Taussy10/CineVerse) | App | Private| Working... |
+|5.|[Wally](https://github.com/Taussy10/Wally) | App | Public |Working... |
+|6.|[Aora](https://github.com/Taussy10/Aora) | App | Public| Working... |
+|7.|[Chatbot](https://github.com/Taussy10/Chatbot) | App| Public |Working... |
+|8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App| Public |Working... |
 
 </details>
 </br>
