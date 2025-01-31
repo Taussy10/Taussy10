@@ -63,7 +63,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
   
 |Number| Name |Type | Visibility |Status |
 |:----------:|:-----------: | :-----------: | :-----------: | :-----------: |      
-|1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website |Public|Completed... |
+|1.|[Student Perks](https://github.com/Taussy10/Student-Perks) | Website |Private|Completed... |
 |2.|[Imagify](https://github.com/Taussy10/Imagify) | App | Private|Working... |
 |3.|[UrbanNest](https://github.com/Taussy10/UrbanNest) | App| Public |Working... |
 |4.|[Cineverse](https://github.com/Taussy10/CineVerse) | App | Private| Working... |
