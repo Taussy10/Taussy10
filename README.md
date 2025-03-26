@@ -71,7 +71,8 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 |6.|[Aora](https://github.com/Taussy10/Aora) | App | Public| Working... |
 |7.|[Chatbot](https://github.com/Taussy10/Chatbot) | App| Public |Working... |
 |8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App| Public |Working... |
-|9.|[extension](https://github.com/Taussy10/Crackdev),[website](https://github.com/Taussy10/Crackdev-site) |Extension & Website| Private |Working... |
+|9.|[Crackdev](https://github.com/Taussy10/Crackdev) | VS Code Extension| Private |Completed... |
+|10.|[Crackdev](https://github.com/Taussy10/Crackdev-site)|Website| Private |Working... |
 
 </details>
 </br>
