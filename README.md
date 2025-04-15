@@ -73,7 +73,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 |8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App| Public |Working... |
 |9.|[Crackdev](https://github.com/Taussy10/Crackdev) | VS Code Extension| Private |Completed... |
 |10.|[Crackdev](https://github.com/Taussy10/Crackdev-site)|Website| Private |Working... |
-
+|11.|[Recipe](https://github.com/Taussy10/recipe) | App |Public|working|
 </details>
 </br>
 
