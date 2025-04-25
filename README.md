@@ -1,9 +1,4 @@
 
-
-
-
-hello 
-
   <!--  HI PIKACHU  -->
 <h1 align="center"  ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
 
@@ -70,13 +65,11 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 |5.|[CraveCrush](https://github.com/Taussy10/CraveCrush) | App | Public |Working... |
 |6.|[Aora](https://github.com/Taussy10/Aora) | App | Public| Working... |
 |7.|[Chatbot](https://github.com/Taussy10/Chatbot) | App| Public |Working... |
-|8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App| Public |Working... |
-|9.|[Crackdev](https://github.com/Taussy10/Crackdev) | VS Code Extension| Private |Completed... |
-|10.|[Crackdev](https://github.com/Taussy10/Crackdev-site)|Website| Private |Working... |
-|11.|[Recipe](https://github.com/Taussy10/recipe) | App |Public|working|
+|8.|[Coursey](https://github.com/Taussy10/E-Learning-) | App|Public|Working... |
+|10.|[Recipe](https://github.com/Taussy10/recipe) | App |Private|working|
+|11.|[Bot](https://github.com/Taussy10/Bot) | Twitter Bot |Private|working...|
 </details>
 </br>
-
 
 
 
