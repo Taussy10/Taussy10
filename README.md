@@ -75,9 +75,6 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 
-<!--  Trophy 
-<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p> -->
-
 <!--  DIVIDER  -->
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> 
@@ -105,7 +102,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)]( https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E?logo=Appwrite&logoColor=white)
+[![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E?logo=Appwrite&logoColor=white)](https://appwrite.io/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -124,71 +121,32 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 
 
+
+
+
+
+
+
+
+<h2 align="center"><samp>📟 My GitHub Stats</samp></h2>
+ 
+
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
+
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=taussy10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+<!--  Trophy -->
+<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p> 
+
+</p>
+
+
 <!--  Github Contribution Graph  -->
 <a href="https://github.com/Taussy10">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=taussy10&bg_color=white&color=ffffff&line=2c6ce6&point=ffffff&hide_border=false"/>
 </a>
-
-
-
-
-
-<!--  DIVIDER  -->
-
-
-<!--  Github streak  -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Taussy10&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=donut-vertical&theme=github_dark&show&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
- 
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=taussy10&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=github_dark&hide=issues&hide_border=true&hide_title=true,contribs"  /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
