@@ -59,7 +59,7 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 |Number| Name | description| Type |Link| Visibility |Status | 
 |:----------:|:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |       
 |1.|Student Perks|A website from where you can know about your perks by being a student  | Website |[Github](https://github.com/Taussy10/Student-Perks) [Website](https://student-perks.vercel.app/) |Private|Completed... |
-|2.|Artify|Create art using AI| App |[Imagify](https://github.com/Taussy10/Imagify) |Private|Working... |
+|2.|Artify|Create art using AI| App |[Github](https://github.com/Taussy10/Imagify) |Private|Working... |
 |3.|UrbanNest|Find and explore modern urban homes| App |[Github](https://github.com/Taussy10/UrbanNest)|Public|Completed... |
 |4.|Cineverse|Discover and explore movies & shows| App | [Github](https://github.com/Taussy10/CineVerse)|Private|Working... |
 |5.|CraveCrush|Food delivery| App |[Github](https://github.com/Taussy10/CraveCrush)|Private|Working... |
