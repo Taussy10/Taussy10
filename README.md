@@ -136,9 +136,9 @@ I'm Tausif an **App Developer** with a passion for creating  Apps for both Andro
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=taussy10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=taussy10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+<img height="50%"  src ="https://github-readme-streak-stats.herokuapp.com?user=taussy10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
 <!--  Trophy -->
-<p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> </p> 
+ <img height="50%"  s src="https://github-profile-trophy.vercel.app/?username=taussy10&hide_border=true&theme=onestar&row=2&column=3" alt="trophy" /> 
 
 </p>
 
