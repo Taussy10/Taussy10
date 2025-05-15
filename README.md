@@ -58,16 +58,15 @@
 
 |Number| Name | description| Type |Link| Visibility |Status | 
 |:----------:|:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |       
-|1.|Student Perks|A website from where you can know about your perks by being a student  | Website |[Github](https://github.com/Taussy10/Student-Perks) [Website](https://student-perks.vercel.app/) |Private|Completed... |
-|2.|Artify|Create art using AI| App |[Github](https://github.com/Taussy10/Imagify) |Private|Working... |
+|1.|Student Perks|A website from where you can get to know about Student Perks| Website |[Github](https://github.com/Taussy10/Student-Perks) [Website](https://student-perks.vercel.app/) |Private|Completed... |
+|2.|Artify|Create art using AI| App |[Github](https://github.com/Taussy10/Imagify) |Private|Working...|
 |3.|UrbanNest|Find and explore modern urban homes| App |[Github](https://github.com/Taussy10/UrbanNest)|Public|Completed... |
 |4.|Cineverse|Discover and explore movies & shows| App | [Github](https://github.com/Taussy10/CineVerse)|Private|Working... |
 |5.|CraveCrush|Food delivery| App |[Github](https://github.com/Taussy10/CraveCrush)|Private|Working... |
-|6.|Aora|A social media| App |[Github](https://github.com/Taussy10/Aora)|Public|Working... |
-|7.|Chatbot|An AI-powered chat assistant| App |[Github](https://github.com/Taussy10/Chatbot)|Public|Working... |
-|8.|Coursey|A personalized course generator app using AI| App |[Github](https://github.com/Taussy10/E-Learning-)|Private|Working... |
-|9.|Recipe|Generate your food recipe| App |[Github](https://github.com/Taussy10/recipe)|Private|Working... |
-|10.|Bot|A Twitter bot for automation| Twitter Bot |[Github](https://github.com/Taussy10/Bot)|Private|Working... |
+|6.|Chatty|An AI-powered chat assistant| App |[Github](https://github.com/Taussy10/Chatty)|Public|Working... |
+|7.|Coursey|A personalized course generator app using AI| App |[Github](https://github.com/Taussy10/E-Learning-)|Private|Working... |
+|8.|Cookmate|Generate your food recipe| App |[Github](https://github.com/Taussy10/recipe)|Public|Working... |
+|9.|Tweety|A Twitter bot for automation| Twitter Bot |[Github](https://github.com/Taussy10/Bot)|Private|Working... |
 
 
 </details>
