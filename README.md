@@ -56,7 +56,7 @@
 ## My projects  👇👇
 <details><summary> Click Here</summary>
 
-|Number| Name | description| Type |Link| Visibility |Status | 
+|Number| Name | description| Type |Links| Code-Visibility |Status | 
 |:----------:|:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |       
 |1.|Student Perks|A website from where you can get to know about Student Perks| Website |[Github](https://github.com/Taussy10/Student-Perks) [Website](https://student-perks.vercel.app/) |Private|Completed... |
 |2.|Artify|Create art using AI| App |[Github](https://github.com/Taussy10/Imagify) |Private|Working...|
