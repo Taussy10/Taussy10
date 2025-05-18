@@ -16,8 +16,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taussy10&label=Profile%20views&color=0e75b6&style=flat" alt="taussy10" /> </p>
 
 
+[![Wakatime](https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg)](https://wakatime.com/@Taussy10)
 
-<p align="left"> <img src="https://wakatime.com/badge/user/018dcfbe-5d8f-4f3c-bfa8-a64dce6c2a6b.svg" alt="taussy10" /> </p>
 
 
 <!--  PROFILE HEADER RHS IMAGE  -->
