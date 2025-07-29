@@ -1,4 +1,4 @@
-hj
+
   <!--  HI PIKACHU  -->
 <h1 align="center"  ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
 hh.
@@ -34,6 +34,8 @@ hh.
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
+
+🧑‍🎓 Currently I'm learning n8n
 
 <!--  EXCITED CHARACTERS  -->
 
