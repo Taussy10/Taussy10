@@ -68,6 +68,8 @@ s
 |7.|Coursey|A personalized course generator app using AI| App |[Github](https://github.com/Taussy10/E-Learning-)|Private|Working... |
 |8.|Cookmate|Generate your food recipe| App |[Github](https://github.com/Taussy10/recipe)|Public|Working... |
 |9.|Tweety|A Twitter bot for automation| Twitter Bot |[Github](https://github.com/Taussy10/Bot)|Private|Working... |
+|10.|StartupDB|The DB of startups| Website |[Github](https://github.com/Taussy10/productDb)|Private|Working... |
+
 
 
 </details>
