@@ -1,5 +1,5 @@
 
-  <!--  HI PIjjACHU  -->
+  <!--  HI PIjACHU  -->
 <h1 align="center"  ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
 
 <!-- <img src="https://raw.githubusercontent.com/fykaa/fykaa/f7dcb2f636c080f07db0b7795c379df375b31567/contributiongrid.svg" alt="taussy10" /></a> -->
