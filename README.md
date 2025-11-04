@@ -1,6 +1,6 @@
 
 
-  <!--  1 2 3 4 5    -->
+  <!--  1 2 3 4     -->
 
   <!--  HI PIKACHU  -->
 <h1 align="center"  ><img align="center" src="pikachu-pokemon.gif" align="right" width="15%" alt="pikachu-hi"></h1>
