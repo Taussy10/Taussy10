@@ -39,7 +39,11 @@
 
 🧑‍🎓 Currently I'm learning n8n
 
-<!--  EXCITED CHARACTERS  -->
+<!--  EXCITED CHARACTERS
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=X&labelColor=black&color=black)](https://twitter.com)
+
+-->
 
 </br>
 
@@ -89,8 +93,7 @@
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/> 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taussy10/)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=X&labelColor=black&color=black)](https://twitter.com/Taussy10)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tausif00100@gmail.com)
 
 
