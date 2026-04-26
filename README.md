@@ -63,7 +63,7 @@
 <!--  My projects-->
 ## My projects  👇👇
 <details><summary> Click Here</summary>
-
+<!-- 
 |Number| Name | description| Type |Links| Code-Visibility |Status | 
 |:----------:|:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |       
 |1.|Student Perks|A website from where you can get to know about Student Perks| Website |[Github](https://github.com/Taussy10/Student-Perks) [Website](https://student-perks.vercel.app/) |Private|Completed... |
@@ -79,7 +79,7 @@
 |11.|Replybot|A bot| Website |[Github](https://github.com/Taussy10/reply)|Private|Working... |
 |12.|Nexfy-Capital|A finance related website| Website |[Github](https://github.com/Taussy10/Nexfy-Capital)|Private|Completed... |
 
-
+-->
 
 
 
