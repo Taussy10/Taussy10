@@ -1,4 +1,4 @@
-
+<img width="1461" height="472" alt="image" src="https://github.com/user-attachments/assets/db3053bb-32fb-4ba4-96c8-6b203b4687f9" />
 
   <!--   -->
 
@@ -37,7 +37,7 @@
 
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
-🧑‍🎓 Currently I'm learning n8n
+🧑‍🎓 Currently building project
 
 <!--  EXCITED CHARACTERS
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
