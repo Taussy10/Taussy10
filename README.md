@@ -36,7 +36,7 @@
 
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
-🧑‍🎓 Currently building project
+🧑‍🎓 Currently building projects
 
 <!--  EXCITED CHARACTERS
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
